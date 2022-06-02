@@ -65,6 +65,7 @@
         android:id="@+id/buttonBack"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/go_back" />
+        android:text="@string/go_back"
+        android:backgroundTint="@color/blue_100"/>
 
 </LinearLayout>
